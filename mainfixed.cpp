@@ -1,6 +1,6 @@
 
 //Johnny Catullo CPSC 370 12:30 PM jcatullo@live.esu.edu
-//PURPOSE: Demistrates S-DES Encryption and Decryption using fiestel cipher for 4 rounds using
+//PURPOSE: Demonstrates S-DES Encryption and Decryption using fiestel cipher for 4 rounds using
 //randomly generated plaintexts and keys
 
 
